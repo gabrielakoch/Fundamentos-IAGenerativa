@@ -1,0 +1,21 @@
+--- LOG DE AUDITORIA DO SISTEMA ---
+
+Mensagem: 'Meu computador não liga de jeito nenhum.'
+Categoria: suporte | Confiança: 95%
+
+Mensagem: 'Quero comprar a licença corporativa para 50 usuários.'
+Categoria: vendas | Confiança: 98%
+
+Mensagem: 'Fui cobrado duas vezes na minha fatura deste mês.'
+Categoria: financeiro | Confiança: 95%
+
+Mensagem: 'Qual é o horário de funcionamento de vocês?'
+Categoria: suporte | Confiança: 90%
+
+--- RESULTADO DA DISTRIBUIÇÃO ---
+{
+    "suporte": 2,
+    "vendas": 1,
+    "financeiro": 1,
+    "outros": 0
+}
