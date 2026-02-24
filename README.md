@@ -1,1 +1,15 @@
-# Fundamentos-IAGenerativa
+📂 Estrutura do Repositório
+
+├── projeto01/          # Aula 01 - Fundamentos
+│   ├── main.py         # Script principal
+│   └── requirements.txt # Dependências
+│
+├── projeto02/          # Aula 02 - Produção
+│   ├── main.py         # Classificador principal
+│   ├── classifier.py   # Lógica de classificação
+│   ├── llm_client.py   # Cliente LLM
+│   ├── validator.py    # Validação e testes
+│   ├── requirements.txt # Dependências
+│   └── tarefa.md       # Desafio da aula
+│
+└── README.md          # Este arquivo
